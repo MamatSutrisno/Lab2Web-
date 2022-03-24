@@ -45,6 +45,6 @@ Kedua deklarasi akan ditampilkan di browser dengan tampilan id sebagai paragraf 
 ![18](https://user-images.githubusercontent.com/101656195/159924906-1b1fca03-ca62-4358-890b-c0942b1eec07.png)
 9.Penambahan pada CSS selesctor
 ![19](https://user-images.githubusercontent.com/101656195/159924910-911c6b27-ed9e-4a6d-bedf-bb27cf9afb7e.png)
-1.Tampilan browser
+10.Tampilan browser
 ![20](https://user-images.githubusercontent.com/101656195/159924922-102ad75d-2b7f-41c9-ba36-786e522c10b5.png)
 
