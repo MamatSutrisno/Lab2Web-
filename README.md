@@ -1,8 +1,3 @@
-Nama	: Mamat Sutrisno
-Nim	: 312010082
-Kelas	: TI.20.D1
-Mata kuliah	: Pemrograman Web
-
 Tugas Pertemuan 3
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini
